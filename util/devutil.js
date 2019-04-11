@@ -8,7 +8,7 @@ var ncp    = require('ncp');
 const fsextra = require('fs-extra');
 
 console.log(
-    chalk.yellow(figlet.textSync('ACloudFan.com', { 'horizontalLayout': 'full' })));
+    chalk.yellow(figlet.textSync('Alim', { 'horizontalLayout': 'full' })));
 
 inquireAction()
 
